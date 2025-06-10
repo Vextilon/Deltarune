@@ -1,5 +1,3 @@
-we love pirating
-
 download raw btw
 
-tested on windows and linux
+tested on both windows and linux
